@@ -2,12 +2,7 @@
 /*
 ====================================================
 
-* 	[Master Stylesheet]
-	
-	Theme Name :  
-	Version    :  
-	Author     :  
-	Author URI :  
+* 
 
 ====================================================
 
@@ -134,7 +129,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
  position: relative; 
  background-size: cover; 
 z-index: 10;
-background-image: url(../../images/background.jpeg); 
+background-image: url(../../images/background.jpg); 
 
 }
 
